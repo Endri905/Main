@@ -1,7 +1,7 @@
 $('#sort').sortable();
 
 $(function(){
-    4('#accordion').accordion();
+    $('#accordion').accordion();
 });
 
-$('#tbs').tabs();
+$('#tabs').tabs();
